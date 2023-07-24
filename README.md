@@ -6,7 +6,7 @@
 
 - 👋 Hi, I’m @projectsbyandy
 - 👀 I’m interested in coding, photography and building keyboards!
-- 📫 How to reach me ...
+- 📫 mrchang@outlook.com
 
 <!---
 projectsbyandy/projectsbyandy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
