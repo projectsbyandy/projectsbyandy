@@ -5,7 +5,7 @@
 ```                                                                                                                                                                 
 
 - 👋 Hi, I’m @projectsbyandy
-- 👀 I’m interested in coding, photography and building keyboards!
+- 👀 I’m interested in coding, photography and building keyboards (many of my projects are hobby related)!
 - 📫 mrchang@outlook.com
 
 <!---
